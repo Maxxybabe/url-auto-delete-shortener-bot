@@ -20,23 +20,23 @@
     "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "2143562935:AAF96SiBaBFC6peCISBf2h5_FUwmDAgqb50",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "28874393",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "b75001191909efeabb3355ebb78323b7",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "-1003822421467",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "1058290425",
             "required": true
         },
         "PICS": {
@@ -44,7 +44,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1003686408971",
             "required": true
         },
         "AUTH_USERS": {
@@ -56,11 +56,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/h9QjSSmk5tw",
+            "description": "mongodb+srv://maxen:maxen@cluster0.3bz6vzu.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/h9QjSSmk5tw",
+            "description": "Cluster11",
             "required": false
         },
         "COLLECTION_NAME": {
